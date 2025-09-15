@@ -1,3 +1,6 @@
+# © 2025 Fr0zst. All rights reserved. 
+# Unauthorized copying prohibited.
+
 import os
 from pytubefix import YouTube
 from moviepy.editor import AudioFileClip
@@ -98,4 +101,5 @@ if __name__ == "__main__":
             print("Invalid choice. Please enter 'mp3' or 'mp4'.")
 
     download_youtube_media(link, choice)
+
 
