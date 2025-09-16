@@ -1,3 +1,4 @@
+[![Badge](https://img.shields.io/badge/PythonDiddler-blue)](https://github.com/Fr0zst)
 # YT2MP3-4
 I WAS SO BORED. HELP ME
 
